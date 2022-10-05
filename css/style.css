@@ -1,3 +1,17 @@
-h2{
-    display: center;
+h2, h3{
+    text-align: center;
+}
+ul{
+    text-align: left;
+}
+h4{
+    margin-left: 15px;
+    text-decoration: underline;
+    font-size: large;
+}
+h5, h6{
+    display: inline;
+}
+h6{
+    font-weight: lighter;
 }
